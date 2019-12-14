@@ -6,7 +6,7 @@ This is Course Material Resource Portal for Daffodil International University.
 Any user can visit this website. After login user can view which course he/she search. Student can collect teacher information. Student can view semester wise course content.
 
 
-## Frontend Uees
+## Frontend Uses
 - HTML
 - CSS 
 - BOOTSTRAP 4
@@ -14,7 +14,7 @@ Any user can visit this website. After login user can view which course he/she s
 - AJAX
 
 ## Backend Uses
--PHP(Laravel)
+- PHP(Laravel)
 ## Database 
 - MySQL
 
